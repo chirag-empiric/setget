@@ -5,6 +5,7 @@ authors = ["jani chirag.empiric@gmail.com"]
 edition = "2021"
 description = "A crate for creating and managing users. This is created to learn about how to create and publish crates."
 repository = "https://github.com/chirag-empiric/setget.git"
+license = "MIT"
 
 [dependencies]
 
